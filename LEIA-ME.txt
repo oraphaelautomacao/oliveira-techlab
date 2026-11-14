@@ -1,0 +1,18 @@
+OLIVEIRA TECHLAB — ESTRUTURA DO PROJETO
+
+Arquivos:
+- index.html
+- css/style.css
+- js/script.js
+- img/foto-perfil.jpg (adicione sua imagem nesta pasta)
+
+Como usar:
+1. Extraia a pasta do ZIP.
+2. Crie a pasta "img" na raiz do projeto, caso ainda não exista.
+3. Coloque sua foto com o nome exato "foto-perfil.jpg" dentro de "img".
+4. Abra o arquivo index.html no navegador.
+
+Importante:
+- O número do WhatsApp e o perfil do Instagram foram mantidos conforme o código enviado.
+- O caminho da foto foi mantido como img/foto-perfil.jpg.
+- Para publicar, envie a estrutura inteira mantendo os nomes e pastas.
